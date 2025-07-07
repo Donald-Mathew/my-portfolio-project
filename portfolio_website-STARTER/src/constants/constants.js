@@ -18,8 +18,8 @@ export const projects = [
     id: 1,
   },
   {
-    title: 'A Space-x front-end clone',
-    description: "This is a space-x front-end clone built using html,css and js",
+    title: 'A simple space-x clone',
+    description: "",
       image: '/images/space-x.jpg',
       tags: ["html", "css", "js"],
     // source: 'https://google.com',
