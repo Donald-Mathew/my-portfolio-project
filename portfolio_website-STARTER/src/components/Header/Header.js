@@ -43,7 +43,7 @@ const Header = () =>  (
       </SocialIcons>
       <SocialIcons href="https://www.linkedin.com/in/donald-mathew-374494202"
   target="_blank"
-  rel="noopener noreferrer">
+  rel="noopener noreferrer">  
         <AiFillLinkedin size= "3rem" />
       </SocialIcons>
       {/* <SocialIcons href="https://instagram.com">
