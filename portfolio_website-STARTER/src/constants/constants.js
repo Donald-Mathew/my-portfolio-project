@@ -18,7 +18,7 @@ export const projects = [
     id: 1,
   },
   {
-    title: 'A simple space-x clone',
+    title: 'A simple Space-X clone',
     description: "",
       image: '/images/space-x.jpg',
       tags: ["html", "css", "js"],
